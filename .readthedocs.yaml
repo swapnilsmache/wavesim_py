@@ -7,8 +7,10 @@ build:
 
   jobs:
     post_create_environment:
+      - pip install --upgrade pip
       - pip install poetry
       - pip install poetry-plugin-export
+      - poetry config warnings.export false
       - poetry export -f requirements.txt -o requirements.txt --with docs
       - cat requirements.txt
 
