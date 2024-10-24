@@ -13,6 +13,6 @@ Finally, due to the generality of our approach, we expect it to be readily exten
 
 Code availability
 -----------------
-The code for Wavesim is available on GitHub :cite:`wavesim_py`, it is licensed under the BSD 3-Clause license. When using Wavesim in your work, please cite :cite:`mache2024domain, osnabrugge2016convergent` and this current paper. Examples and documentation for this project are available at `Read the Docs <https://wavesim_py.readthedocs.io/en/stable/>`_ :cite:`wavesim_documentation`.
+The code for Wavesim is available on GitHub :cite:`wavesim_py`, it is licensed under the BSD 3-Clause license. When using Wavesim in your work, please cite :cite:`mache2024domain, osnabrugge2016convergent` and this current paper. Examples and documentation for this project are available at `Read the Docs <https://wavesim_py.readthedocs.io/en/latest/>`_ :cite:`wavesim_documentation`.
 
 %endmatter%
