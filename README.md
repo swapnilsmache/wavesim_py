@@ -10,7 +10,7 @@ Wavesim is a tool to simulate the propagation of waves in complex, inhomogeneous
 
 This package [[7](#id23)] is a Python implementation of the Modified Born Series (MBS) approach for solving the Helmholtz equation in arbitrarily large media through domain decomposition [[8](#id11)]. With this new framework, we simulated a complex 3D structure of a remarkable $315\times 315\times 315$ wavelengths $\left( 3.1\cdot 10^7 \right)$ in size in just $379$ seconds by solving over two GPUs. This represents a factor of $1.93$ increase over the largest possible simulation on a single GPU without domain decomposition.
 
-When using Wavesim in your work, please cite [[5](#id15), [8](#id11)], and [[7](#id23)] for the code. Examples and documentation for this project are available at [Read the Docs](https://wavesim_py.readthedocs.io/en/latest/) [[9](#id22)]. For more information (and to participate in the forum for discussions, queries, and requests), please visit our website [www.wavesim.org](https://www.wavesim.org/).
+When using Wavesim in your work, please cite [[5](#id15), [8](#id11)], and [[7](#id23)] for the code. Examples and documentation for this project are available at [Read the Docs](https://wavesim.readthedocs.io/en/latest/) [[9](#id22)]. For more information (and to participate in the forum for discussions, queries, and requests), please visit our website [www.wavesim.org](https://www.wavesim.org/).
 
 ## Installation
 
@@ -177,4 +177,4 @@ Swapnil Mache and Ivo M. Vellekoop. Domain decomposition of the modified born s
 
 <a name="id22"></a>9
 
-Wavesim documentation. URL: [https://wavesim_py.readthedocs.io/en/latest/](https://wavesim_py.readthedocs.io/en/latest/).
+Wavesim documentation. URL: [https://wavesim.readthedocs.io/en/latest/](https://wavesim.readthedocs.io/en/latest/).

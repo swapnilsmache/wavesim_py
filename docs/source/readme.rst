@@ -8,8 +8,8 @@ Wavesim
 
 .. only:: html
 
-    .. image:: https://readthedocs.org/projects/wavesim_py/badge/?version=latest
-       :target: https://wavesim_py.readthedocs.io/en/latest/?badge=latest
+    .. image:: https://readthedocs.org/projects/wavesim/badge/?version=latest
+       :target: https://wavesim.readthedocs.io/en/latest/?badge=latest
        :alt: Documentation Status
 
 
@@ -20,7 +20,7 @@ Wavesim is a tool to simulate the propagation of waves in complex, inhomogeneous
 
 This package :cite:`wavesim_py` is a Python implementation of the Modified Born Series (MBS) approach for solving the Helmholtz equation in arbitrarily large media through domain decomposition :cite:`mache2024domain`. With this new framework, we simulated a complex 3D structure of a remarkable :math:`315\times 315\times 315` wavelengths :math:`\left( 3.1\cdot 10^7 \right)` in size in just :math:`379` seconds by solving over two GPUs. This represents a factor of :math:`1.93` increase over the largest possible simulation on a single GPU without domain decomposition. 
 
-When using Wavesim in your work, please cite :cite:`mache2024domain, osnabrugge2016convergent`, and :cite:`wavesim_py` for the code. Examples and documentation for this project are available at `Read the Docs <https://wavesim_py.readthedocs.io/en/latest/>`_ :cite:`wavesim_documentation`. For more information (and to participate in the forum for discussions, queries, and requests), please visit our website `www.wavesim.org <https://www.wavesim.org/>`_.
+When using Wavesim in your work, please cite :cite:`mache2024domain, osnabrugge2016convergent`, and :cite:`wavesim_py` for the code. Examples and documentation for this project are available at `Read the Docs <https://wavesim.readthedocs.io/en/latest/>`_ :cite:`wavesim_documentation`. For more information (and to participate in the forum for discussions, queries, and requests), please visit our website `www.wavesim.org <https://www.wavesim.org/>`_.
 
 Installation
 ----------------------------------------------
